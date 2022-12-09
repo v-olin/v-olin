@@ -2,8 +2,7 @@
 
 I'm a CSE student at Chalmers University of Technology.
 Whenever I have the time or energy to do something fun,
-I write it up and publish it here. Although I have a
-strong preference to C# and .NET, lanugages don't scare
+I write it up and publish it here. Lanugages don't scare
 me.
 
 Take a look at some of my repositories below! 😋
