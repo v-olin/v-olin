@@ -1,11 +1,4 @@
-### Hello! 👋
-
-I'm a CSE student at Chalmers University of Technology.
-Whenever I have the time or energy to do something fun,
-I write it up and publish it here. Lanugages don't scare
-me.
-
-Take a look at some of my repositories below! 😋
+part-time dev, part-time teacher, full-time student
 
 <!--
 **v-olin/v-olin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
