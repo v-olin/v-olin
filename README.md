@@ -1,4 +1,4 @@
-part-time dev, part-time teacher, full-time student
+part-time dev, full-time student
 
 <!--
 **v-olin/v-olin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
